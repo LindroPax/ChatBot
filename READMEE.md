@@ -1,4 +1,4 @@
-#about LindroPax/ChatBot
+# about LindroPax/ChatBot
 
 <p>It won't undergo any more code modifications or additions.</p>
 
